@@ -44,7 +44,7 @@ This is a simple template built with HTML, CSS, and Bootstrap 4 that I use for m
 
 ## Live Demo
 
-Visit [https://joycenerd.github.io/](https://joycenerd.github.io/) to see the template in action.
+Visit [https://zhiyichin.github.io/](https://zhiyichin.github.io/) to see the template in action.
 
 ## Credits
 
