@@ -1,7 +1,7 @@
 # Personal Website Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![LLaMA](https://img.shields.io/badge/Live_Demo-zchin-FFB000.svg?style=flat-square)](https://joycenerd.github.io)
+[![LLaMA](https://img.shields.io/badge/Live_Demo-zchin-FFB000.svg?style=flat-square)](https://zhiyichin.github.io)
 
 
 While building my own academic website, I spent countless hours looking at other researchers' websites and learning from their designs. After finally getting mine to a place I was happy with, I thought it might be helpful to share my template with others who might be on the same journey.
